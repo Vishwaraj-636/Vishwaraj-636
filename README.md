@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Vishwaraj-636">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="mailto:vishwaraj.singh2023@vitstudent.ac.in">Email</a>
 </p>
 
 ---
@@ -82,6 +82,15 @@ Worked on computer-vision / deep-learning workflows for plant disease detection,
 
 **SmartBridge — Machine Learning Intern**  
 Built an online payment fraud detection solution using machine-learning techniques and developed an application layer for inference.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwaraj-636&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwaraj-636&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
